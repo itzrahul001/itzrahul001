@@ -92,19 +92,15 @@ public class Rahul {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
 
-## 📊 GitHub Analytics
+## 📊 LeetCode Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itzrahul001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzrahul001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" />
+  <img width="49%" src="https://leetcode-stats-card.vercel.app/?username=YOUR-LEETCODE-USERNAME&theme=dark&background=0D1117&border=2F81F7&text=FFFFFF" />
+  <img width="49%" src="https://leetcode-badge-generator.vercel.app/api?username=YOUR-LEETCODE-USERNAME&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzrahul001&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzrahul001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=ffffff" />
+  <img width="97%" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=true&bg_color=0D1117&border_color=2F81F7&text_color=FFFFFF" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
