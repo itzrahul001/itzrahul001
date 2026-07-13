@@ -95,7 +95,7 @@ public class Rahul {
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img width="48%" src="https://leetcode-stats-card.vercel.app/?username=rahulyadav96962004&theme=dark&background=0D1117&border=2F81F7&text=FFFFFF" />
+  <img width="60%" src="https://leetcard.jacoblin.cool/rahulyadav96962004?theme=dark&font=Fira%20Code&border=true&bg_color=0D1117&border_color=2F81F7&text_color=FFFFFF" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
@@ -103,7 +103,7 @@ public class Rahul {
 ## 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzrahul001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itzrahul001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
