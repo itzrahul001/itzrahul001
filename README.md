@@ -10,13 +10,13 @@
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/rahul-yadav-302a6b1a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://leetcode.com/u/rahulyadav96962004">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:rahulyadav96962004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://github.com/itzrahul001">
@@ -51,7 +51,7 @@ public class Rahul {
 - ⚙️ Deep diving into **Spring Boot internals** & **Java multithreading**
 - 🌱 Building full stack projects with **Spring Boot + React + MySQL**
 - 🎯 Targeting Java Full Stack & QA/SDET roles across NCR
-- 📫 Reach me at **YOUR-EMAIL**
+- 📫 Reach me at **rahulyadav96962004@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
 
@@ -92,15 +92,10 @@ public class Rahul {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
 
-## 📊 LeetCode Analytics
+## 📊 LeetCode Stats
 
 <p align="center">
-  <img width="49%" src="https://leetcode-stats-card.vercel.app/?username=rahulyadav96962004&theme=dark&background=0D1117&border=2F81F7&text=FFFFFF" />
-  <img width="49%" src="https://leetcode-badge-generator.vercel.app/api?username=rahulyadav96962004&theme=dark" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://leetcard.jacoblin.cool/rahulyadav96962004?theme=dark&font=Fira%20Code&ext=heatmap&border=true&bg_color=0D1117&border_color=2F81F7&text_color=FFFFFF" />
+  <img width="48%" src="https://leetcode-stats-card.vercel.app/?username=rahulyadav96962004&theme=dark&background=0D1117&border=2F81F7&text=FFFFFF" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
