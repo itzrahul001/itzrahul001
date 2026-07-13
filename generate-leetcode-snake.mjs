@@ -13,25 +13,26 @@ const USERNAME = process.env.LEETCODE_USERNAME || "rahulyadav96962004";
 const OUT_DIR = "dist";
 const OUT_FILE = `${OUT_DIR}/leetcode-snake.svg`;
 
-const CELL = 14;
+const CELL = 16;
 const GAP = 4;
 const ROWS = 7;
 const PAD = 16;
+const WEEKS = 26;        // ~6 months — denser, fewer elements, more reliable render
 
 const BASE_LEN = 3;      // snake length at the very start
-const MAX_LEN = 18;      // cap so it doesn't swallow the whole board
+const MAX_LEN = 14;      // cap so it doesn't swallow the whole board
 const GROWTH_RATE = 3;   // +1 length every N problems eaten
-const DURATION_S = 26;
+const DURATION_S = 20;
 
 const COLORS = {
   panelFrom: "#0d1420",
   panelTo: "#111a2b",
-  empty: "#161b22",
-  levels: ["#161b22", "#0e4a6b", "#0f6b8f", "#12a4c9", "#39e0ff"], // 0..4
-  snakeBody: "#22c55e",
-  snakeBodyGlow: "#86efac",
-  eaten: "#0a0e14",
-  head: "#eaffea",
+  // clear GitHub-style heatmap ramp: grey (no activity) -> bright green (heavy activity)
+  levels: ["#1e2530", "#0e4429", "#116932", "#26a641", "#39d353"],
+  snakeBody: "#facc15",
+  snakeBodyGlow: "#fde68a",
+  eaten: "#161b22",
+  head: "#fffbea",
 };
 
 async function fetchCalendar(username) {
@@ -63,7 +64,7 @@ function buildGrid(calendar) {
   const dayMs = 86400_000;
   const today = new Date();
   today.setUTCHours(0, 0, 0, 0);
-  const days = 371; // 53 weeks
+  const days = WEEKS * 7;
   const startWeekDay = new Date(today.getTime() - (days - 1) * dayMs);
   const offset = startWeekDay.getUTCDay();
   const start = new Date(startWeekDay.getTime() - offset * dayMs);
@@ -141,7 +142,7 @@ function renderSVG(grid, path) {
     const keyTimes = [0, t0, t1, t2, t3, 1].join(";");
     const values = [baseColor, baseColor, COLORS.snakeBody, COLORS.snakeBody, COLORS.eaten, COLORS.eaten].join(";");
 
-    return `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="3" fill="${baseColor}">
+    return `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="3" fill="${baseColor}" stroke="#000000" stroke-opacity="0.35" stroke-width="1">
       <animate attributeName="fill" values="${values}" keyTimes="${keyTimes}" dur="${DURATION_S}s" repeatCount="indefinite" />
     </rect>`;
   }).join("\n");
