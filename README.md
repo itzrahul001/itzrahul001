@@ -100,13 +100,6 @@ public class Rahul {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
 
-## 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzrahul001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
 
 ## 🐍 LeetCode Contribution Snake
 
