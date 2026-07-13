@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE">
+  <a href="https://leetcode.com/u/rahulyadav96962004">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
   </a>
   <a href="mailto:YOUR-EMAIL">
@@ -95,12 +95,12 @@ public class Rahul {
 ## 📊 LeetCode Analytics
 
 <p align="center">
-  <img width="49%" src="https://leetcode-stats-card.vercel.app/?username=YOUR-LEETCODE-USERNAME&theme=dark&background=0D1117&border=2F81F7&text=FFFFFF" />
-  <img width="49%" src="https://leetcode-badge-generator.vercel.app/api?username=YOUR-LEETCODE-USERNAME&theme=dark" />
+  <img width="49%" src="https://leetcode-stats-card.vercel.app/?username=rahulyadav96962004&theme=dark&background=0D1117&border=2F81F7&text=FFFFFF" />
+  <img width="49%" src="https://leetcode-badge-generator.vercel.app/api?username=rahulyadav96962004&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=true&bg_color=0D1117&border_color=2F81F7&text_color=FFFFFF" />
+  <img width="97%" src="https://leetcard.jacoblin.cool/rahulyadav96962004?theme=dark&font=Fira%20Code&ext=heatmap&border=true&bg_color=0D1117&border_color=2F81F7&text_color=FFFFFF" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2F81F7&height=3&width=100%" />
